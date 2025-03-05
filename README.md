@@ -197,9 +197,10 @@ ___
 ### Acknowledgment  
 
 We extend our sincere gratitude to our dedicated team members for their hard work and collaboration on this project:  
-- **Aniket Palse (Leader)**  
+- **Sangnik Ghosh**  
+- **Aniket Palse**  
 - **Soniya Raut**  
 - **Atharva Dholle**  
-- **Sangnik Ghosh**  
+
 
 This project would not have been possible without their continuous efforts, innovative ideas, and teamwork.  
