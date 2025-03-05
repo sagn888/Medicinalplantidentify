@@ -197,7 +197,7 @@ ___
 ### Acknowledgment  
 
 We extend our sincere gratitude to our dedicated team members for their hard work and collaboration on this project:  
-- **Sangnik Ghosh**  
+- **Sagnik Ghosh**  
 - **Aniket Palse**  
 - **Soniya Raut**  
 - **Atharva Dholle**  
